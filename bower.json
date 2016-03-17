@@ -1,0 +1,27 @@
+{
+  "name": "Ryan",
+  "version": "0.0.0",
+  "description": "blog website",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "blog",
+    "programming",
+    "travel",
+    "life",
+    "technology"
+  ],
+  "authors": [
+    "ryan lindsey"
+  ],
+  "license": "MIT",
+  "homepage": "rnl.life",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
